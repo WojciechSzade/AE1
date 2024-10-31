@@ -1,0 +1,9 @@
+{
+    "num_generations": 50,
+    "population_size": 100,
+    "crossover_rate": 0.7,
+    "mutation_rate": 0.2,
+    "lower_bound": -1,
+    "upper_bound": 21,
+    "function": "-0.4*x**2+3*x+8"
+  }
